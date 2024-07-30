@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/sqldeveloper-23.1.0.097.1607-x64/sqldeveloper/jdbc/lib/ojdbc11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
